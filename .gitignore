@@ -1,0 +1,25 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+
+# Runtime state and generated data
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+dash/backend/data/workspaces/
+
+# Build output and dependencies
+node_modules/
+dist/
+coverage/
+dash/backend/apollo-dash*
+
+# Local tooling and OS files
+.claude/
+.playwright-mcp/
+.DS_Store
