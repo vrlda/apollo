@@ -22,4 +22,5 @@ dash/backend/apollo-dash*
 # Local tooling and OS files
 .claude/
 .playwright-mcp/
+.playwright-cli/
 .DS_Store
