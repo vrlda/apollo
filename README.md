@@ -1,6 +1,5 @@
 # AgentHQ (Apollo)
 
-[![CI](https://github.com/vrlda/apollo/actions/workflows/ci.yml/badge.svg)](https://github.com/vrlda/apollo/actions/workflows/ci.yml)
 
 AgentHQ is a Career OS for autonomous AI work: a system where companies, departments, agents, tools, policies, memory, and execution live in one operating model.
 
