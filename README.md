@@ -85,14 +85,6 @@ sequenceDiagram
     DB-->>UI: Live status and event stream
 ```
 
-## Screenshots
-
-### Product landing page
-
-![AgentHQ landing page](docs/screenshots/landing.png)
-
-The authenticated dashboard carries the same model into the workspace: organization tree, agents, tasks, schedules, memory, governance, threads, approvals, and settings are exposed as operating surfaces rather than separate demos.
-
 ## Repository layout
 
 ```text
