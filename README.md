@@ -1,6 +1,6 @@
-# AgentHQ
+# Apollo
 
-AgentHQ is a self-hosted dashboard for building and operating AI companies. It combines a Go backend with a React frontend for agent organization, tasks, memory, MCP tools, schedules, governance, and audit history.
+Apollo is a self-hosted dashboard for building and operating AI companies. It combines a Go backend with a React frontend for agent organization, tasks, memory, MCP tools, schedules, governance, and audit history.
 
 ## Project layout
 
